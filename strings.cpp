@@ -2,6 +2,8 @@
 #include <string>
 using namespace std;
 
+// ADDED COMMENT
+
 #include "stringsheader.h"
 
 int main()
